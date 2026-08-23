@@ -1,11 +1,6 @@
 ---
 name: interview-intelligence
 description: Use this skill whenever the user wants the latest publicly reported interview questions, interview experiences, or evidence-based preparation priorities for a specific company, role, seniority level, country, or interview round. Use it for requests such as "latest Staff SWE questions at Coupang," "what was asked in the first screen," or "rank likely system-design questions." The expected outcome is a current, source-backed shortlist of concrete questions ranked by evidence strength, not a generic interview-preparation guide.
-compatibility: Requires an AI agent or LLM with live web-search/browsing capability and the ability to open public sources. Works with ChatGPT, Claude, Gemini, and agent frameworks that support web research.
-metadata:
-   version: "1.0.0"
-   category: "interview-research"
-   output: "evidence-ranked interview questions"
 ---
 
 # Interview Intelligence
